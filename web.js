@@ -1,7 +1,7 @@
 var path=require('path');
 var net=require('net');
 console.log("env:"+process.env.PATH+"\n\n");
-console.log("NEW ONE:"+__dirname+"\n");
+console.log("NOVA:"+__dirname+"\n");
 
 var socket=new net.Socket();	
 		console.log("Sending tcp data from Laravel Http to SIHOT TCP on:93.204.98.2:14975");	
