@@ -1,0 +1,19 @@
+{
+  "name": "web.js",
+  "version": "1.0.0",
+  "description": "uhLaLa!",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:stunnel.git"
+  },
+  "author": "Filip",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
